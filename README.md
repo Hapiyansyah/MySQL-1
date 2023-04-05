@@ -2,7 +2,7 @@
 
 1. Buat sebuah database dengan nama latihan2!
 
-!
+![foto]/(foto1.png)
 
 2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan2!
 
