@@ -42,13 +42,13 @@
 
 11. Ganti nama field id menjadi nim!
 
-![foto11]
+![foto11](foto/ss11.png)
 
 12. Jadikan nim sebagai PRIMARY KEY!
 
-!
+![foto12](foto/ss12.png)
 
 13. Jadikan kolom email sebagai UNIQUE KEY!
 
-!
+![foto13](foto/ss13.png)
  
