@@ -52,3 +52,10 @@
 
 ![foto13](foto/ss13.png)
  
+# Evaluasi dan Pertanyaan
+
+1. Apa yang dimaksud dengan int(11)?
+   Yang dimaksud int(11) artinya suatu data yang dipakai atau digunakan menggunakan tipe data int atau integer dengan length atau panjang karakter 11.
+
+2. Ketika kita melihat struktur tabel denga perintah desc, ada kolom Null berisi YES dan NO. apa maksudnya?
+   Apabila Null berisi no, maka data tersebut nantinya akan dilakukan pengisian atau penginputan. Sedangkan apabila Null berisi yes, maka artinya data tersebut akan dikosongkan atau tidak dilakukan penginputan.
